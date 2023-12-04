@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @1233Mini.
-- 👀 I’m interested in Designing.
-- 🌱 I’m currently learning Graphic Designing.
-- 💞️ I’m looking to collaborate on Designing.
+- 👀 I’m interested in Web Development & Designing.
+- 🌱 I have completed my Full Stack Web Developer Course.
+- 💞️ I’m looking to collaborate on Developer & Designing field.
 - 📫 How to reach me 1233Mini.
 
 <!---
